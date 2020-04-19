@@ -25,4 +25,4 @@
 * Java: openjdk version "11.0.6" 2020-01-14
    OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
    OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
-* Файл исходного текста тестируемой программы:  
+* Файл исходного текста тестируемой программы:  https://github.com/VeraOm/JavaHW3Task2/blob/master/Bonus.java
